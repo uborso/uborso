@@ -17,7 +17,7 @@ I'm Umberto Borso, a dedicated Machine Learning enthusiast and Quantum Engineeri
 
 ## 📫 Connect with Me:
 - 📧 Email: [u.borso@gmail.com](mailto:u.borso@gmail.com)
-- 🔗 LinkedIn: [Your LinkedIn Profile Link](#)
+- 🔗 LinkedIn: [Umberto Borso](https://www.linkedin.com/in/umberto-borso-1990a11a1/)
 
 ---
 
