@@ -8,7 +8,7 @@ I'm Umberto Borso, a dedicated Machine Learning enthusiast and Quantum Engineeri
 - 🚀 Driven by a passion for **cutting-edge AI technologies** and their potential to transform various sectors.
 
 ## 📚 Current Endeavors:
-- 🌱 I’m currently delving into **Advanced Machine Learning Techniques** at ETH Zürich.
+- 🌱 I’m currently pursuing an **MSc in Quantum Engineering** at ETH Zürich with a strong focus on **Machine Learning**.
 - 🧠 Expanding my knowledge in **AI frameworks** and **Quantum Information Theory**.
 
 ## 🤝 Collaboration:
