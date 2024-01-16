@@ -1,7 +1,7 @@
 # 👋 Welcome to @uborso's GitHub Profile!
 
 ## 🌟 About Me:
-I'm Umberto Borso, a dedicated Machine Learning enthusiast and Quantum Engineering scholar currently exploring the frontiers of technology at ETH Zürich. With a strong foundation in Physics from University College London, I'm passionately merging the realms of Scientific Computing and Artificial Intelligence to drive innovations.
+I'm Umberto Borso, a dedicated Machine Learning and Quantum Engineering scholar currently exploring the frontiers of technology at ETH Zürich. With a strong foundation in Physics from University College London, I'm passionately merging the realms of Scientific Computing and Artificial Intelligence to drive innovations.
 
 ## 💡 Interests:
 - 👀 I’m curently exploring the filed of **Probabilistic Artificial Intelligence**, including areas like **Bayesian Optimization, Markov Chain Decision Processes, and Reinforcement Learning**.
