@@ -1,24 +1,27 @@
 # 👋 Welcome to @uborso's GitHub Profile!
 
 ## 🌟 About Me:
-I'm Umberto Borso, a dedicated Machine Learning and Quantum Engineering scholar currently exploring the frontiers of technology at ETH Zürich. With a strong foundation in Physics from University College London, I'm passionately merging the realms of Scientific Computing and Artificial Intelligence to drive innovations.
+I'm Umberto Borso, a Master's student in **Quantum Engineering** at **ETH Zürich**, with a strong academic background in **Machine Learning** and **Physics**. My research focuses on applying **generative models** and **reinforcement learning** to solve complex decision-making problems in high-dimensional spaces, such as molecular design and dynamic systems.
 
-## 💡 Interests:
-- 👀 I’m curently exploring the filed of **Probabilistic Artificial Intelligence**, including areas like **Bayesian Optimization, Markov Chain Decision Processes, and Reinforcement Learning**.
-- 🚀 Driven by a passion for **cutting-edge AI technologies** and their potential to transform various sectors.
+## 💡 Research Interests:
+- **Generative Models** (e.g., Discrete Diffusion Models) for decision-making in large action spaces.
+- **Reinforcement Learning** methods, including **Convex and Submodular RL**, for optimizing exploration and exploitation in constrained environments.
+- **Probabilistic Artificial Intelligence**, covering areas like **Gaussian Processes**, **Bayesian Neural Networks**, and **Bayesian Optimization**.
 
-## 📚 Current Endeavors:
-- 🌱 I’m currently pursuing an **MSc in Quantum Engineering** at ETH Zürich with a strong focus on **Machine Learning**.
-- 🧠 Expanding my knowledge in **AI frameworks** and **Quantum Information Theory**.
+## 📚 Current Projects:
+- **Master's Thesis at UCL Centre for Artificial Intelligence**: Exploring how generative models, particularly discrete diffusion models, can improve decision-making in large, complex action spaces.
+- **Research on Transition Constrained Active Learning**: Applying Reinforcement Learning techniques to optimize information gain in constrained environments, with a focus on molecular space exploration.
 
 ## 🤝 Collaboration:
-- 💞️ Eager to collaborate on **Machine Learning** projects.
-- 🌐 Keen on contributing to open-source initiatives that blend **Physics, AI, and Scientific Computing**.
+- Interested in collaborating on **Reinforcement Learning** projects.
+- Open to contributing to **open-source** projects.
 
-## 📫 Connect with Me:
-- 📧 Email: [u.borso@gmail.com](mailto:u.borso@gmail.com)
+## 📫 Let's Connect:
 - 🔗 LinkedIn: [Umberto Borso](https://www.linkedin.com/in/umberto-borso-1990a11a1/)
+- 💼 GitHub Projects: Check out my repositories for Machine Learning, Quantum Computing, and Reinforcement Learning applications!
 
 ---
 
 🌟 **Umberto Borso** | ETH Zürich | Machine Learning & Quantum Engineering
+
+---
